@@ -3,13 +3,9 @@
 #### Web developer
 
 ### CONTACTS
-====
 
-![phone](./img/phone.svg =15x "phone") 222-3-22-33-2-3
-![email](./img/email.svg =15x "email") supermail@i.com
-![website](./img/website.svg =15x "website") [i.com](https://i.com "This's my super website!!1")
-![adress](./img/adress.svg =15x "adress") Main strees, 47/3
-====
+<img src="./img/phone.svg" width="15" height="15" /> 222-3-22-33-2-3
+
 
 ### About me
 
@@ -29,8 +25,8 @@ I'm 33 years old. I love travelling!
   - _photoshop_
   - _coreldraw_
   - _vscode_
-====
 
+### Example of my code
 ``` css
 display: flex;
 justify-content: space-between;
@@ -56,4 +52,5 @@ I don't have a commercial work experience.
 ====
 
 >My English level is beginer (from A0 to A1)
+
 I think so.
