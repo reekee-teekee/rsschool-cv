@@ -1,3 +1,5 @@
+![](./img/man.png)
+
 # Evgeniy Dmitrienko
 
 #### Web developer
