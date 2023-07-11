@@ -1,4 +1,4 @@
-![](./img/man.png)
+![](./img/man.png "Дорогу осилит идущий")
 
 # Evgeniy Dmitrienko
 
