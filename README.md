@@ -1,1 +1,1 @@
-# rsschool-cv
+https://reekee-teekee.github.io/rsschool-cv/cv
