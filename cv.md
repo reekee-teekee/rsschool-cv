@@ -62,3 +62,8 @@ I don't have a commercial work experience.
 >My English level is beginer (from A0 to A1)
 
 I think so.
+
+to do list:
+- [x] feed the cat
+- [] feed the fish
+- [] buy the tickets to the Moon
