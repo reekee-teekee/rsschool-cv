@@ -65,5 +65,5 @@ I think so.
 
 to do list:
 - [x] feed the cat
-- [] feed the fish
-- [] buy the tickets to the Moon
+- [ ] feed the fish
+- [ ] buy the tickets to the Moon
