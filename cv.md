@@ -51,7 +51,7 @@ I don't have a commercial work experience.
 ====
 
 ### My education
-1. htmlacademy
+1. htmlacademy :+1:
 2. learn.javascript _a little bit_
 3. youtube
    + English
